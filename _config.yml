@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            My Gitbook
+longtitle:        My Gitbook
+author:           declue
+email:            bkperio@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://declue.github.io'
+baseurl:          '/jgitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -51,7 +51,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-page_width: 800px
+page_width: 1200px
 
 destination:      ./_site
 incremental:      false
